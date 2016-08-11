@@ -1,2 +1,2 @@
 # i3
-arquivos do i3
+Pasta com arquivos de configuração do i3, entre outros.
